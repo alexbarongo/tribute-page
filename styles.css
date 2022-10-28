@@ -1,0 +1,148 @@
+﻿*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family: 'Raleway', sans-serif; 
+  width: 100%;
+  background-color: #f5eec2;
+}
+
+#main{
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+header{
+  width: 80%;
+  margin:0 auto;
+  text-align: center;
+}
+ #title > h1{
+   font-size: 60;
+   color: #416a59;
+ }
+ hr{
+   width: 100%;
+   margin: 0 auto;
+   height: 5px;
+   border: 0;
+   background-color:#a9c25d; 
+ }
+ #title > p{
+   font-size: 1.2rem;
+   padding-top: 5px;
+ }
+ 
+ #image{
+   display: block;
+   height: auto;
+   max-width: 100%;
+   border-radius: 30px;
+   margin: 20px auto;
+ }
+
+ figcaption{
+   font-size: 0.8rem;
+   color: #416a59;
+   padding-bottom: 5px;
+ }
+
+.about{
+  margin-top: 10px;
+  color: #39395f;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.about > p{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.time-line{
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.time-line > h2{
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  color: #416a59;
+}
+
+fieldset{
+  width: 100%;
+  height: auto;
+  border: 0px;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.details{
+  width: 50%;
+  float: right;
+}
+
+.bio{
+  margin: 10px auto;
+  width: 90%
+}
+.nik{
+  color: #416a59;
+  padding: 10px 0;
+}
+
+.tes{
+  width: 90%;
+  margin: 0 auto;
+  color: #000000;
+  font-weight: 400
+}
+
+.more{
+  width: 100%;
+  padding: 20px;
+}
+
+footer{
+  background-color: #416a59;
+  color: #ffffff;
+  font-weight: 100;
+  width:100%;
+}
+
+.user{
+  margin: 0 5%;
+  padding-top: 20px;
+  display: block;
+}
+
+p{
+  margin: 10px 0;
+}
+
+textarea{
+  border: 0;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px; 
+  margin: 10px 0;
+}
+
+address{
+  padding: 10px; 
+  margin: 0 5%;
+}
+footer > p{
+  padding-bottom: 30px;
+  text-align: center;
+}
+
